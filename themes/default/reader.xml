@@ -1,0 +1,22 @@
+<root>
+  <include file="main.xml"/>
+  <namespace name="docview">
+    <object name="theme">
+      <pagebg color="#444444"/>
+      <selbg color="#0A246A"/>
+      <bkgnd color="#F2F1F0"/>
+    </object>
+    <object type="charfmt" name="txtdoc">
+      <face value="fontfaces:default"/>
+      <size value="12"/>
+      <color value="#000000"/>
+    </object>
+  </namespace>
+  <!-- end of namespace docview -->
+  <namespace name="home_view">
+    <object type="brush" name="top_bg">
+      <image value="images:splitter.topbg"/>
+    </object>
+  </namespace>
+  <!-- end of namespace home view -->
+</root>

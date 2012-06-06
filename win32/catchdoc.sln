@@ -1,0 +1,93 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "base", "base\base.vcproj", "{8C0B452F-1A0F-4A2F-88B6-06B96E3DC7B0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gui", "gui\gui.vcproj", "{953FC8B6-7513-4E79-9AF3-AAF1C921170C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test-base", "test-base\test-base.vcproj", "{E3FA0C66-52AA-4938-B0EC-179E003CCB40}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test-gui-button", "test-gui-button\test-gui-button.vcproj", "{65A207E0-D049-42FA-A31C-45C7502B574A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "win32-backend", "win32-backend\win32-backend.vcproj", "{4D2BFB47-2428-42C2-955D-6F5A90CC5F37}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test-gui-dirty", "test-gui-dirty\test-gui-dirty.vcproj", "{D5667C21-EC5A-4C5F-91AB-CAF159AADCF8}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test-gui-event", "test-gui-event\test-gui-event.vcproj", "{2FDD0F97-AB7A-410D-80A5-2EA0C72E636B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test-gui-pdfview", "test-gui-pdfview\test-gui-pdfview.vcproj", "{AEEADDAD-4DC1-40D0-B38A-D0301198C45B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test-gui-resmgr", "test-gui-resmgr\test-gui-resmgr.vcproj", "{72EF7DCF-4D31-4EE9-A76E-3326ECEA1949}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test-gui-timer", "test-gui-timer\test-gui-timer.vcproj", "{296ABE1B-DF04-40EF-BB33-D806CE6CC768}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{8C0B452F-1A0F-4A2F-88B6-06B96E3DC7B0}.Debug.ActiveCfg = Debug|Win32
+		{8C0B452F-1A0F-4A2F-88B6-06B96E3DC7B0}.Debug.Build.0 = Debug|Win32
+		{8C0B452F-1A0F-4A2F-88B6-06B96E3DC7B0}.Release.ActiveCfg = Release|Win32
+		{8C0B452F-1A0F-4A2F-88B6-06B96E3DC7B0}.Release.Build.0 = Release|Win32
+		{953FC8B6-7513-4E79-9AF3-AAF1C921170C}.Debug.ActiveCfg = Debug|Win32
+		{953FC8B6-7513-4E79-9AF3-AAF1C921170C}.Debug.Build.0 = Debug|Win32
+		{953FC8B6-7513-4E79-9AF3-AAF1C921170C}.Release.ActiveCfg = Release|Win32
+		{953FC8B6-7513-4E79-9AF3-AAF1C921170C}.Release.Build.0 = Release|Win32
+		{E3FA0C66-52AA-4938-B0EC-179E003CCB40}.Debug.ActiveCfg = Debug|Win32
+		{E3FA0C66-52AA-4938-B0EC-179E003CCB40}.Debug.Build.0 = Debug|Win32
+		{E3FA0C66-52AA-4938-B0EC-179E003CCB40}.Release.ActiveCfg = Release|Win32
+		{E3FA0C66-52AA-4938-B0EC-179E003CCB40}.Release.Build.0 = Release|Win32
+		{65A207E0-D049-42FA-A31C-45C7502B574A}.Debug.ActiveCfg = Debug|Win32
+		{65A207E0-D049-42FA-A31C-45C7502B574A}.Debug.Build.0 = Debug|Win32
+		{65A207E0-D049-42FA-A31C-45C7502B574A}.Release.ActiveCfg = Release|Win32
+		{65A207E0-D049-42FA-A31C-45C7502B574A}.Release.Build.0 = Release|Win32
+		{4D2BFB47-2428-42C2-955D-6F5A90CC5F37}.Debug.ActiveCfg = Debug|Win32
+		{4D2BFB47-2428-42C2-955D-6F5A90CC5F37}.Debug.Build.0 = Debug|Win32
+		{4D2BFB47-2428-42C2-955D-6F5A90CC5F37}.Release.ActiveCfg = Release|Win32
+		{4D2BFB47-2428-42C2-955D-6F5A90CC5F37}.Release.Build.0 = Release|Win32
+		{D5667C21-EC5A-4C5F-91AB-CAF159AADCF8}.Debug.ActiveCfg = Debug|Win32
+		{D5667C21-EC5A-4C5F-91AB-CAF159AADCF8}.Debug.Build.0 = Debug|Win32
+		{D5667C21-EC5A-4C5F-91AB-CAF159AADCF8}.Release.ActiveCfg = Release|Win32
+		{D5667C21-EC5A-4C5F-91AB-CAF159AADCF8}.Release.Build.0 = Release|Win32
+		{2FDD0F97-AB7A-410D-80A5-2EA0C72E636B}.Debug.ActiveCfg = Debug|Win32
+		{2FDD0F97-AB7A-410D-80A5-2EA0C72E636B}.Debug.Build.0 = Debug|Win32
+		{2FDD0F97-AB7A-410D-80A5-2EA0C72E636B}.Release.ActiveCfg = Release|Win32
+		{2FDD0F97-AB7A-410D-80A5-2EA0C72E636B}.Release.Build.0 = Release|Win32
+		{AEEADDAD-4DC1-40D0-B38A-D0301198C45B}.Debug.ActiveCfg = Debug|Win32
+		{AEEADDAD-4DC1-40D0-B38A-D0301198C45B}.Debug.Build.0 = Debug|Win32
+		{AEEADDAD-4DC1-40D0-B38A-D0301198C45B}.Release.ActiveCfg = Release|Win32
+		{AEEADDAD-4DC1-40D0-B38A-D0301198C45B}.Release.Build.0 = Release|Win32
+		{72EF7DCF-4D31-4EE9-A76E-3326ECEA1949}.Debug.ActiveCfg = Debug|Win32
+		{72EF7DCF-4D31-4EE9-A76E-3326ECEA1949}.Debug.Build.0 = Debug|Win32
+		{72EF7DCF-4D31-4EE9-A76E-3326ECEA1949}.Release.ActiveCfg = Release|Win32
+		{72EF7DCF-4D31-4EE9-A76E-3326ECEA1949}.Release.Build.0 = Release|Win32
+		{296ABE1B-DF04-40EF-BB33-D806CE6CC768}.Debug.ActiveCfg = Debug|Win32
+		{296ABE1B-DF04-40EF-BB33-D806CE6CC768}.Debug.Build.0 = Debug|Win32
+		{296ABE1B-DF04-40EF-BB33-D806CE6CC768}.Release.ActiveCfg = Release|Win32
+		{296ABE1B-DF04-40EF-BB33-D806CE6CC768}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

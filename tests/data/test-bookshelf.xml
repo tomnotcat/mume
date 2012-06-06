@@ -1,0 +1,1216 @@
+<mume version="1.0" compatibility="1.0">
+  <books class="ovector">
+    <bookslot>
+      <id>Book 0</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 1</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 2</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 3</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 4</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 5</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 6</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 7</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 8</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 9</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 10</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 11</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 12</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 13</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 14</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 15</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 16</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 17</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 18</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 19</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 20</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 21</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 22</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 23</id>
+    </bookslot>
+    <bookslot>
+      <id>Book 24</id>
+    </bookslot>
+  </books>
+  <shelves class="ovector">
+    <bookshelf>
+      <books class="ovector">
+        <bookslot>
+          <id>Book 0</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 1</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 2</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 3</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 4</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 5</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 6</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 7</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 8</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 9</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 10</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 11</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 12</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 13</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 14</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 15</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 16</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 17</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 18</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 19</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 20</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 21</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 22</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 23</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 24</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 25</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 26</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 27</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 28</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 29</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 30</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 31</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 32</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 33</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 34</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 35</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 36</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 37</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 38</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 39</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 40</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 41</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 42</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 43</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 44</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 45</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 46</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 47</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 48</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 49</id>
+        </bookslot>
+      </books>
+      <name>Shelf 0</name>
+      <shelves class="ovector">
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 0</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 1</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 2</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 3</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 4</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 5</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 6</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 7</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 8</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 9</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+      </shelves>
+    </bookshelf>
+    <bookshelf>
+      <books class="ovector">
+        <bookslot>
+          <id>Book 0</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 1</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 2</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 3</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 4</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 5</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 6</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 7</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 8</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 9</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 10</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 11</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 12</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 13</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 14</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 15</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 16</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 17</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 18</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 19</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 20</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 21</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 22</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 23</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 24</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 25</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 26</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 27</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 28</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 29</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 30</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 31</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 32</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 33</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 34</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 35</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 36</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 37</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 38</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 39</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 40</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 41</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 42</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 43</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 44</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 45</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 46</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 47</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 48</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 49</id>
+        </bookslot>
+      </books>
+      <name>Shelf 1</name>
+      <shelves class="ovector">
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 0</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 1</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 2</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 3</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 4</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 5</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 6</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 7</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 8</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 9</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+      </shelves>
+    </bookshelf>
+    <bookshelf>
+      <books class="ovector">
+        <bookslot>
+          <id>Book 0</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 1</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 2</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 3</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 4</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 5</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 6</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 7</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 8</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 9</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 10</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 11</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 12</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 13</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 14</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 15</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 16</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 17</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 18</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 19</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 20</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 21</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 22</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 23</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 24</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 25</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 26</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 27</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 28</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 29</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 30</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 31</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 32</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 33</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 34</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 35</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 36</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 37</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 38</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 39</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 40</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 41</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 42</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 43</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 44</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 45</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 46</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 47</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 48</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 49</id>
+        </bookslot>
+      </books>
+      <name>Shelf 2</name>
+      <shelves class="ovector">
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 0</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 1</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 2</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 3</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 4</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 5</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 6</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 7</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 8</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 9</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+      </shelves>
+    </bookshelf>
+    <bookshelf>
+      <books class="ovector">
+        <bookslot>
+          <id>Book 0</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 1</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 2</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 3</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 4</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 5</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 6</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 7</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 8</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 9</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 10</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 11</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 12</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 13</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 14</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 15</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 16</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 17</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 18</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 19</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 20</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 21</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 22</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 23</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 24</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 25</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 26</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 27</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 28</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 29</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 30</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 31</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 32</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 33</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 34</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 35</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 36</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 37</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 38</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 39</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 40</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 41</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 42</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 43</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 44</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 45</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 46</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 47</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 48</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 49</id>
+        </bookslot>
+      </books>
+      <name>Shelf 3</name>
+      <shelves class="ovector">
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 0</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 1</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 2</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 3</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 4</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 5</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 6</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 7</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 8</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 9</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+      </shelves>
+    </bookshelf>
+    <bookshelf>
+      <books class="ovector">
+        <bookslot>
+          <id>Book 0</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 1</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 2</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 3</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 4</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 5</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 6</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 7</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 8</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 9</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 10</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 11</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 12</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 13</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 14</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 15</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 16</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 17</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 18</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 19</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 20</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 21</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 22</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 23</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 24</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 25</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 26</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 27</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 28</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 29</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 30</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 31</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 32</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 33</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 34</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 35</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 36</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 37</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 38</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 39</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 40</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 41</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 42</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 43</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 44</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 45</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 46</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 47</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 48</id>
+        </bookslot>
+        <bookslot>
+          <id>Book 49</id>
+        </bookslot>
+      </books>
+      <name>Shelf 4</name>
+      <shelves class="ovector">
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 0</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 1</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 2</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 3</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 4</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 5</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 6</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 7</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 8</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+        <bookshelf>
+          <books class="ovector">
+          </books>
+          <name>Shelf 9</name>
+          <shelves class="ovector">
+          </shelves>
+        </bookshelf>
+      </shelves>
+    </bookshelf>
+  </shelves>
+</mume>

@@ -1,0 +1,17 @@
+<mume version="1.0" compatibility="1.0">
+  <books class="ooset">
+    <book>
+      <id>id1&quot;</id>
+    </book>
+    <book>
+      <id>id2&lt;/&gt;</id>
+      <name>book2</name>
+      <path>path2/book2</path>
+    </book>
+    <book>
+      <id>id3&amp;&apos;</id>
+      <name>book3</name>
+      <path>path3/book3</path>
+    </book>
+  </books>
+</mume>

@@ -1,0 +1,23 @@
+The Mume Reader
+================================
+
+The Mume Reader ("Mume" for short) project is aimed to create
+a user friendly reading environment. Although there are many
+opensource document viewers already exist, they rarely provid
+complete functions such as annotation, reading history etc.
+
+Some proprietory document viewer that have a pretty good usability
+(e.g. Adobe Reader, Foxit Reader), but they usually dose not support
+opensource OS like Linux, or provide a port version that with most
+functionality stripped.
+
+Mume is intended to support multi platform, currently mainly
+running on Ubuntu and Windows, and should be easily port to other
+Linux distributions. it currently just support PDF document, but
+conside to support other formats in the future.
+
+For bug reports, mailing list, and other information please visit:
+
+  http://www.mumereader.org
+
+For license information, see the file COPYING.

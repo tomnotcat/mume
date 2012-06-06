@@ -1,0 +1,203 @@
+<root>
+  <include file="images.xml"/>
+  <namespace name="metrics">
+    <object type="int" name="cxhscroll" value="14"/>
+    <object type="int" name="cyhscroll" value="14"/>
+    <object type="int" name="cxvscroll" value="14"/>
+    <object type="int" name="cyvscroll" value="14"/>
+  </namespace>
+  <namespace name="fontfaces">
+    <object type="fontface" name="default">
+      <file value="wqy-microhei.ttc"/>
+    </object>
+  </namespace>
+  <!-- end of namespace metrics -->
+  <namespace name="button">
+    <object name="theme">
+      <pushbtn>
+        <bkgnd>
+          <normal image="images:pushbtn.normal"/>
+          <hot image="images:pushbtn.hot"/>
+          <pressed image="images:pushbtn.pressed"/>
+          <disabled image="images:pushbtn.disabled"/>
+        </bkgnd>
+        <texts>
+          <normal face="fontfaces:default" size="12"/>
+          <hot face="fontfaces:default" size="12"/>
+          <pressed face="fontfaces:default" size="12"/>
+          <disabled face="fontfaces:default" size="12"/>
+        </texts>
+      </pushbtn>
+      <checkbox>
+        <uncheck>
+          <normal image="images:checkbox.u_normal"/>
+          <hot image="images:checkbox.u_hot"/>
+          <pressed image="images:checkbox.u_pressed"/>
+          <disabled image="images:checkbox.u_disabled"/>
+        </uncheck>
+        <check>
+          <normal image="images:checkbox.c_normal"/>
+          <hot image="images:checkbox.c_hot"/>
+          <pressed image="images:checkbox.c_pressed"/>
+          <disabled image="images:checkbox.c_disabled"/>
+        </check>
+        <bkgnd>
+          <normal color="#FFFFFF"/>
+          <hot color="#FFFFFF"/>
+          <pressed color="#FFFFFF"/>
+          <disabled color="#FFFFFF"/>
+        </bkgnd>
+        <texts>
+          <normal face="fontfaces:default" size="12"/>
+          <hot face="fontfaces:default" size="12"/>
+          <pressed face="fontfaces:default" size="12"/>
+          <disabled face="fontfaces:default" size="12"/>
+        </texts>
+      </checkbox>
+      <radiobtn>
+        <uncheck>
+          <normal image="images:radiobtn.u_normal"/>
+          <hot image="images:radiobtn.u_hot"/>
+          <pressed image="images:radiobtn.u_pressed"/>
+          <disabled image="images:radiobtn.u_disabled"/>
+        </uncheck>>
+        <check>
+          <normal image="images:radiobtn.c_normal"/>
+          <hot image="images:radiobtn.c_hot"/>
+          <pressed image="images:radiobtn.c_pressed"/>
+          <disabled image="images:radiobtn.c_disabled"/>
+        </check>>
+        <bkgnd>
+          <normal color="#FFFFFF"/>
+          <hot color="#FFFFFF"/>
+          <pressed color="#FFFFFF"/>
+          <disabled color="#FFFFFF"/>
+        </bkgnd>
+        <texts>
+          <normal face="fontfaces:default" size="12"/>
+          <hot face="fontfaces:default" size="12"/>
+          <pressed face="fontfaces:default" size="12"/>
+          <disabled face="fontfaces:default" size="12"/>
+        </texts>
+      </radiobtn>
+    </object>
+    <!-- end of object theme -->
+  </namespace>
+  <!-- end of namespace button -->
+  <namespace name="scrollbar">
+    <object name="theme">
+      <button1>
+        <normal image="images:scrollbar.btn1n"/>
+        <hot image="images:scrollbar.btn1h"/>
+        <pressed image="images:scrollbar.btn1p"/>
+        <disabled image="images:scrollbar.btn1d"/>
+      </button1>
+      <button2>
+        <normal image="images:scrollbar.btn2n"/>
+        <hot image="images:scrollbar.btn2h"/>
+        <pressed image="images:scrollbar.btn2p"/>
+        <disabled image="images:scrollbar.btn2d"/>
+      </button2>
+      <bkgnd>
+        <normal image="images:scrollbar.bgn"/>
+        <disabled image="images:scrollbar.bgd"/>
+      </bkgnd>
+      <thumb>
+        <normal image="images:scrollbar.thumbn"/>
+        <hot image="images:scrollbar.thumbh"/>
+        <pressed image="images:scrollbar.thumbp"/>
+        <disabled image="images:scrollbar.thumbd"/>
+      </thumb>
+    </object>
+  </namespace>
+  <!-- end of namespace scrollbar -->
+  <namespace name="treeview">
+    <object name="theme">
+      <item_indent value="16"/>
+      <item_margin value="8,4,4,4"/>
+      <expcol_size value="9,9"/>
+      <exp_normal image="images:treeview.expn"/>
+      <exp_selected image="images:treeview.exps"/>
+      <col_normal image="images:treeview.coln"/>
+      <col_selected image="images:treeview.cols"/>
+      <bkgnd color="rgb(255,255,255)"/>
+      <itembg>
+        <normal color="#FFFFFF"/>
+        <hot color="#E8E9EA"/>
+        <pressed color="#3B5B81"/>
+      </itembg>
+      <texts>
+        <normal face="fontfaces:default" size="13"/>
+        <hot face="fontfaces:default" size="13"/>
+        <pressed face="fontfaces:default" size="13" color="#FFFFFF"/>
+      </texts>
+    </object>
+  </namespace>
+  <!-- end of namespace treeview -->
+  <namespace name="splitter">
+    <object name="theme">
+      <bar_width value="8"/>
+      <grip_size value="4,9"/>
+      <bar_bg image="images:splitter.bar"/>
+      <grip_bg image="images:splitter.grip"/>
+      <horz_cursor id="hdblarrow"/>
+      <vert_cursor id="vdblarrow"/>
+    </object>
+  </namespace>
+  <!-- end of namespace splitter -->
+  <namespace name="tabctrl">
+    <object name="theme">
+      <bar_height value="32"/>
+      <bar_margin value="7,4,7,0"/>
+      <cbtn_rect value="6,8,12,12"/>
+      <tbtn_rect value="4,4,19,19"/>
+      <text_margin value="14,0,7,0"/>
+      <tab_span value="180"/>
+      <tab_gap value="3"/>
+      <tbtn_gap value="3"/>
+      <tab_bg>
+        <normal image="images:tabctrl.tabn"/>
+        <hot image="images:tabctrl.tabh"/>
+        <pressed image="images:tabctrl.tabp"/>
+      </tab_bg>
+      <cbtn_bg>
+        <normal image="images:tabctrl.cbtnn"/>
+        <hot image="images:tabctrl.cbtnn"/>
+        <pressed image="images:tabctrl.cbtnn"/>
+      </cbtn_bg>
+      <tbtn_bg>
+        <normal image="images:tabctrl.tbtnn"/>
+        <hot image="images:tabctrl.tbtnh"/>
+        <pressed image="images:tabctrl.tbtnn"/>
+      </tbtn_bg>
+      <text face="fontfaces:default" size="12"/>
+      <barbg image="images:tabctrl.barbg"/>
+      <bkgnd image="images:tabctrl.bkgnd"/>
+      <cbtn_cursor id="hand"/>
+    </object>
+  </namespace>
+  <!-- end of namespace tabctrl -->
+  <namespace name="menubar">
+    <object name="theme">
+      <popup_margin value="2,2,2,2"/>
+      <baritem_margin value="10,5,10,5"/>
+      <popitem_margin value="10,5,24,5"/>
+      <popmark_size value="10,9"/>
+      <barbg color="#F3F3F3"/>
+      <popupbg image="images:menubar.popupbg"/>
+      <popmark_normal image="images:menubar.popmarkn"/>
+      <popmark_selected image="images:menubar.popmarks"/>
+      <itembg>
+        <normal color="#F3F3F3"/>
+        <hot color="#F3F3F3"/>
+        <pressed color="#3B5B81"/>
+      </itembg>
+      <texts>
+        <normal face="fontfaces:default" size="14"/>
+        <hot face="fontfaces:default" size="14"/>
+        <pressed face="fontfaces:default" size="14" color="#FFFFFF"/>
+      </texts>
+    </object>
+  </namespace>
+  <!-- end of namespace menubar -->
+</root>

@@ -1,0 +1,5 @@
+<root>
+  <object type="type1" name="obj1">
+    <s value="this is obj1"/>
+  </object>
+</root>

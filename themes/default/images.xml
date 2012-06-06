@@ -1,0 +1,100 @@
+<root>
+  <namespace name="images">
+    <object type="images" name="pushbtn">
+      <file value="pushbtn.bmp"/>
+      <sects>
+        <l name="normal" rect="0,42,60,21" margin="8,8,8,8"/>
+        <l name="hot" rect="0,0,60,21" margin="8,8,8,8"/>
+        <l name="pressed" rect="0,84,60,21" margin="8,8,8,8"/>
+        <l name="disabled" rect="0,63,60,21" margin="8,8,8,8"/>
+        <l name="defaulted" rect="0,21,60,21" margin="8,8,8,8"/>
+      </sects>
+    </object>
+    <object type="images" name="checkbox">
+      <file value="checkbox.bmp"/>
+      <sects>
+        <l name="u_normal" rect="0,0,15,15"/>
+        <l name="u_hot" rect="15,0,15,15"/>
+        <l name="u_pressed" rect="30,0,15,15"/>
+        <l name="u_disabled" rect="45,0,15,15"/>
+        <l name="c_normal" rect="60,0,15,15"/>
+        <l name="c_hot" rect="75,0,15,15"/>
+        <l name="c_pressed" rect="90,0,15,15"/>
+        <l name="c_disabled" rect="105,0,15,15"/>
+      </sects>
+    </object>
+    <object type="images" name="radiobtn">
+      <file value="radiobtn.bmp"/>
+      <sects>
+        <l name="u_normal" rect="0,0,15,15"/>
+        <l name="u_hot" rect="15,0,15,15"/>
+        <l name="u_pressed" rect="30,0,15,15"/>
+        <l name="u_disabled" rect="45,0,15,15"/>
+        <l name="c_normal" rect="60,0,15,15"/>
+        <l name="c_hot" rect="75,0,15,15"/>
+        <l name="c_pressed" rect="90,0,15,15"/>
+        <l name="c_disabled" rect="105,0,15,15"/>
+      </sects>
+    </object>
+    <object type="images" name="scrollbar">
+      <file value="scrollbar.bmp"/>
+      <sects>
+        <l name="btn1n" rect="0,0,14,14"/>
+        <l name="btn1h" rect="14,0,14,14"/>
+        <l name="btn1p" rect="28,0,14,14"/>
+        <l name="btn1d" rect="42,0,14,14"/>
+        <l name="btn2n" rect="0,14,14,14"/>
+        <l name="btn2h" rect="14,14,14,14"/>
+        <l name="btn2p" rect="28,14,14,14"/>
+        <l name="btn2d" rect="42,14,14,14"/>
+        <l name="bgn" rect="0,28,14,14" margin="4,4,4,4"/>
+        <l name="bgd" rect="42,28,14,14" margin="4,4,4,4"/>
+        <l name="thumbn" rect="0,42,14,14" margin="4,4,4,4"/>
+        <l name="thumbh" rect="14,42,14,14" margin="4,4,4,4"/>
+        <l name="thumbp" rect="28,42,14,14" margin="4,4,4,4"/>
+        <l name="thumbd" rect="42,42,14,14" margin="4,4,4,4"/>
+      </sects>
+    </object>
+    <!-- end of object scrollbar -->
+    <object type="images" name="treeview">
+      <file value="treeview.png"/>
+      <sects>
+        <l name="expn" rect="0,0,9,9"/>
+        <l name="coln" rect="0,9,9,9"/>
+        <l name="exps" rect="0,18,9,9"/>
+        <l name="cols" rect="0,27,9,9"/>
+      </sects>
+    </object>
+    <object type="images" name="splitter">
+      <file value="splitter.bmp"/>
+      <sects>
+        <l name="bar" rect="0,0,8,13" margin="2,2,2,2"/>
+        <l name="grip" rect="10,2,4,9"/>
+        <l name="topbg" rect="16,0,4,4" margin="1,1,1,1"/>
+      </sects>
+    </object>
+    <object type="images" name="tabctrl">
+      <file value="tabctrl.png"/>
+      <sects>
+        <l name="barbg" rect="0,0,4,32" margin="1,10,1,10"/>
+        <l name="bkgnd" rect="4,10,6,18" margin="2,5,2,5"/>
+        <l name="tabn" rect="4,0,6,28" margin="2,10,2,10"/>
+        <l name="tabh" rect="10,0,6,28" margin="2,10,2,10"/>
+        <l name="tabp" rect="16,0,6,28" margin="2,10,2,10"/>
+        <l name="tbtnn" rect="19,32,19,19" margin="5,5,5,5"/>
+        <l name="tbtnh" rect="0,32,19,19" margin="5,5,5,5"/>
+        <l name="cbtnn" rect="22,0,12,12"/>
+        <l name="plus" rect="22,12,13,13"/>
+      </sects>
+    </object>
+    <object type="images" name="menubar">
+      <file value="menubar.png"/>
+      <sects>
+        <l name="popupbg" rect="0,0,6,6" margin="2,2,2,2"/>
+        <l name="popmarkn" rect="0,6,10,9"/>
+        <l name="popmarks" rect="0,15,10,9"/>
+      </sects>
+    </object>
+  </namespace>
+  <!-- end of namespace images -->
+</root>

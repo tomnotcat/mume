@@ -1,0 +1,13 @@
+<root>
+  <include file="test-base-objbase1.xml"/>
+  <include file="test-base-objbasex.xml"/>
+  <object type="type1" name="obj0">
+    <s value="this is obj0"/>
+  </object>
+  <namespace name="ns1">
+    <link name="link3" target=":link2"/>
+    <include file="test-base-objbase2.xml"/>
+    <link name="link1" target=":obj1"/>
+  </namespace>
+  <link name="link2" target="ns1:link1"/>
+</root>

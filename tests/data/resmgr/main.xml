@@ -1,0 +1,111 @@
+<root>
+  <namespace name="mycolor">
+    <object type="color" name="red" value="#FF0000"/>
+    <object type="color" name="green" value="rgb(0,255,0)"/>
+    <object type="color" name="blue" value="#0000FF"/>
+    <object type="color" name="trans" value="rgb ( 255, 0, 255 ) "/>
+  </namespace>
+  <namespace name="myimage">
+    <object type="images" name="button">
+      <file value="button.png"/>
+      <sects>
+        <l name="normal" rect="0,0,20,23" margin="8,8,8,8"/>
+        <l name="hot" rect="0,23,20,23" margin="8,8,8,8"/>
+        <l name="pressed" rect="0,46,20,23" margin="8,8,8,8"/>
+        <l name="disabled" rect="0,69,20,23" margin="8,8,8,8"/>
+        <l name="focused" rect="0,92,20,23" margin="8,8,8,8"/>
+      </sects>
+    </object>
+    <object type="images" name="bmp24bits">
+      <file value="24bits.bmp"/>
+      <kclr value="rgb(255,0,255)"/>
+      <sects>
+        <l name="normal" rect="0,0,15,15"/>
+      </sects>
+    </object>
+    <object type="images" name="bmp8bits">
+      <file value="8bits.bmp"/>
+      <kclr value="rgb(255,0,255)"/>
+      <sects>
+        <l name="normal" rect="0,0,15,15"/>
+      </sects>
+    </object>
+    <object type="images" name="bmp4bits">
+      <file value="4bits.bmp"/>
+      <kclr value="rgb(255,0,255)"/>
+      <sects>
+        <l name="normal" rect="0,0,15,15"/>
+      </sects>
+    </object>
+    <object type="images" name="bmp1bits">
+      <file value="1bits.bmp"/>
+      <sects>
+        <l name="normal" rect="0,0,15,15"/>
+      </sects>
+    </object>
+  </namespace>
+  <namespace name="mybrush">
+    <link name="button" target=":myimage:button"/>
+    <!-- black -->
+    <object type="brush" name="clr1"/>
+    <object type="brush" name="clr2">
+      <color value="rgb(100,0,0)"/>
+    </object>
+    <object type="brush" name="clr3">
+      <color value="rgb(0,100,0)"/>
+    </object>
+    <object type="brush" name="clr4">
+      <color value="rgb(0,0,100)"/>
+    </object>
+    <object type="brush" name="png1">
+      <image value="button.normal"/>
+    </object>
+    <object type="brush" name="png2">
+      <image value="button.hot"/>
+    </object>
+    <object type="brush" name="png3">
+      <image value="button.pressed"/>
+    </object>
+    <object type="brush" name="png4">
+      <image value="button.disabled"/>
+    </object>
+    <object type="brush" name="bmp1">
+      <image value=":myimage:bmp24bits.normal"/>
+    </object>
+    <object type="brush" name="bmp2">
+      <image value=":myimage:bmp8bits.normal"/>
+    </object>
+    <object type="brush" name="bmp3">
+      <image value=":myimage:bmp4bits.normal"/>
+    </object>
+    <object type="brush" name="bmp4">
+      <image value=":myimage:bmp1bits.normal"/>
+    </object>
+  </namespace>
+  <namespace name="mycharformat">
+    <object type="fontface" name="myface">
+      <file value="wqy-microhei.ttc"/>
+    </object>
+    <object type="charfmt" name="format1">
+      <face value="myface"/>
+      <size value="13"/>
+      <underline value="true"/>
+      <strikeout value="true"/>
+      <color value="#FF0000"/>
+    </object>
+    <object type="charfmt" name="format2">
+      <face value="myface"/>
+      <size value="23"/>
+      <underline value="true"/>
+      <strikeout value="true"/>
+      <color value="#FF0000"/>
+    </object>
+    <object type="charfmt" name="format3">
+      <face value="myface"/>
+      <size value="33"/>
+      <underline value="true"/>
+      <strikeout value="true"/>
+      <color value="#FF0000"/>
+    </object>
+  </namespace>
+</root>

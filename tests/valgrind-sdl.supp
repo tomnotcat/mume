@@ -1,0 +1,31 @@
+{
+   libSDL
+   Memcheck:Leak
+   fun:realloc
+   obj:/usr/*lib*/libX11.so*
+   obj:/usr/*lib*/libX11.so*
+   obj:/usr/*lib*/libX11.so*
+   fun:_XlcCreateLC
+   fun:_XlcDefaultLoader
+   fun:_XOpenLC
+}
+{
+   libSDL
+   Memcheck:Param
+   writev(vector[...])
+   fun:writev
+   fun:???
+}
+{
+   libSDL
+   Memcheck:Leak
+   ...
+   obj:/usr/*lib*/libSDL-1.2.so*
+}
+{
+   libSDL
+   Memcheck:Leak
+   fun:malloc
+   fun:strdup
+   fun:???
+}

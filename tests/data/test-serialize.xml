@@ -1,0 +1,98 @@
+<mume version="1.0" compatibility="1.0">
+  <obj1 class="myobj1">
+    <a>1</a>
+    <b>hello</b>
+    <c>1.200000</c>
+    <d>3.400000000000</d>
+  </obj1>
+  <obj2 class="myobj2">
+    <e>-1</e>
+    <obj class="myobj1">
+      <a>1</a>
+      <b>hello</b>
+      <c>1.200000</c>
+      <d>3.400000000000</d>
+    </obj>
+    <objs class="olist">
+      <myobj1>
+        <a>-1</a>
+        <b>a first</b>
+        <c>10.100000</c>
+        <d>10.000230000000</d>
+      </myobj1>
+      <myobj1>
+        <a>0</a>
+        <b>abc</b>
+        <c>-32.099998</c>
+        <d>-0.000230000000</d>
+      </myobj1>
+      <myobj1>
+        <a>24</a>
+        <b>hello world</b>
+        <c>2.800000</c>
+        <d>-1024.000230000000</d>
+      </myobj1>
+    </objs>
+    <a>2</a>
+    <b>world</b>
+    <c>5.600000</c>
+    <d>7.800000000000</d>
+  </obj2>
+  <objs-0 class="myobj2">
+    <e>0</e>
+    <objs class="olist">
+    </objs>
+    <var class="variant">
+      <int>10</int>
+    </var>
+    <a>0</a>
+    <c>0.000000</c>
+    <d>0.000000000000</d>
+  </objs-0>
+  <objs-1 class="myobj2">
+    <e>0</e>
+    <objs class="olist">
+    </objs>
+    <var class="variant">
+      <float>0.234000</float>
+    </var>
+    <a>0</a>
+    <c>0.000000</c>
+    <d>0.000000000000</d>
+  </objs-1>
+  <objs-2 class="myobj2">
+    <e>0</e>
+    <objs class="olist">
+    </objs>
+    <var class="variant">
+      <double>234.343889003200</double>
+    </var>
+    <a>0</a>
+    <c>0.000000</c>
+    <d>0.000000000000</d>
+  </objs-2>
+  <objs-3 class="myobj2">
+    <e>0</e>
+    <objs class="olist">
+    </objs>
+    <var class="variant">
+      <string>dummy text</string>
+    </var>
+    <a>0</a>
+    <c>0.000000</c>
+    <d>0.000000000000</d>
+  </objs-3>
+  <objs-4 class="myobj2">
+    <e>0</e>
+    <objs class="olist">
+    </objs>
+    <var class="variant">
+      <object class="variant">
+        <string>dummy text</string>
+      </object>
+    </var>
+    <a>0</a>
+    <c>0.000000</c>
+    <d>0.000000000000</d>
+  </objs-4>
+</mume>

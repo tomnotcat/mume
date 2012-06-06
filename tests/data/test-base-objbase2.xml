@@ -1,0 +1,17 @@
+<root>
+  <namespace name="ns2">
+    <object type="type2" name="obj2">
+      <a s="this is obj2"/>
+      <lst>
+        <l>
+          <i value="0"/>
+          <s value="0"/>
+        </l>
+        <l>
+          <!-- intended for test invalid tag -->
+          <s value="1">
+        </l>
+      </lst>
+    </object>
+  </namespace>
+</root>
